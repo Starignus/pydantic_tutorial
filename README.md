@@ -1,2 +1,1 @@
-# pydantic_tutorial
-Getting started with Pydantic
+# Getting started with Pydantic
